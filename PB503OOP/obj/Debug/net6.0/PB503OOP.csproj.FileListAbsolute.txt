@@ -1,0 +1,15 @@
+C:\Users\hsyna\Desktop\PB503OOP\PB503OOP\bin\Debug\net6.0\PB503OOP.exe
+C:\Users\hsyna\Desktop\PB503OOP\PB503OOP\bin\Debug\net6.0\PB503OOP.deps.json
+C:\Users\hsyna\Desktop\PB503OOP\PB503OOP\bin\Debug\net6.0\PB503OOP.runtimeconfig.json
+C:\Users\hsyna\Desktop\PB503OOP\PB503OOP\bin\Debug\net6.0\PB503OOP.dll
+C:\Users\hsyna\Desktop\PB503OOP\PB503OOP\bin\Debug\net6.0\PB503OOP.pdb
+C:\Users\hsyna\Desktop\PB503OOP\PB503OOP\obj\Debug\net6.0\PB503OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsyna\Desktop\PB503OOP\PB503OOP\obj\Debug\net6.0\PB503OOP.AssemblyInfoInputs.cache
+C:\Users\hsyna\Desktop\PB503OOP\PB503OOP\obj\Debug\net6.0\PB503OOP.AssemblyInfo.cs
+C:\Users\hsyna\Desktop\PB503OOP\PB503OOP\obj\Debug\net6.0\PB503OOP.csproj.CoreCompileInputs.cache
+C:\Users\hsyna\Desktop\PB503OOP\PB503OOP\obj\Debug\net6.0\PB503OOP.sourcelink.json
+C:\Users\hsyna\Desktop\PB503OOP\PB503OOP\obj\Debug\net6.0\PB503OOP.dll
+C:\Users\hsyna\Desktop\PB503OOP\PB503OOP\obj\Debug\net6.0\refint\PB503OOP.dll
+C:\Users\hsyna\Desktop\PB503OOP\PB503OOP\obj\Debug\net6.0\PB503OOP.pdb
+C:\Users\hsyna\Desktop\PB503OOP\PB503OOP\obj\Debug\net6.0\PB503OOP.genruntimeconfig.cache
+C:\Users\hsyna\Desktop\PB503OOP\PB503OOP\obj\Debug\net6.0\ref\PB503OOP.dll
